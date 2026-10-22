@@ -16,9 +16,17 @@
 
 ## 下载安装
 
-前往 [Releases](https://github.com/1055169799/twitter-downloader/releases) 下载最新版 APK，安装后即可使用。
+最新版本：**v1.7**（TwitterDownloader_1.7_safe50_adfree.apk）
 
-> 若提示"未知来源"，请在系统设置中允许安装来自此来源的应用。
+任选以下一个入口下载（国内用户推荐 2、3）：
+
+| 入口 | 地址 |
+|------|------|
+| 1. GitHub 原链 | https://github.com/1055169799/twitter-downloader/releases/tag/v1.7 |
+| 2. GitHub 加速镜像（推荐） | https://gh-proxy.com/https://github.com/1055169799/twitter-downloader/releases/download/v1.7/TwitterDownloader_1.7_safe50_adfree.apk |
+| 3. Gitee 直链（国内最快） | https://gitee.com/jinxjay/twitter-downloader |
+
+> 若手机提示"未知来源"，请在系统设置中允许安装来自此来源的应用。
 
 ## 使用方法
 
@@ -44,8 +52,8 @@ A: 受保护账号或仅粉丝可见的推文需要登录态，当前版本暂�
 **Q: 下载的文件在哪里？**
 A: 默认保存在系统下载目录的 TwitterDownloader 文件夹中。
 
-**Q: 无法下载？**
-A: 检查你的网络是否能连上X，如果能连上X，可能是下载服务器改动了，等待APP更新。
+**Q: GitHub 链接打不开？**
+A: 请使用上方入口 2（加速镜像）或入口 3（Gitee 直链）。
 
 ## 更新记录
 
