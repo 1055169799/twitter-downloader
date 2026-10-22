@@ -16,14 +16,14 @@
 
 ## 下载安装
 
-最新版本：**v1.7**（TwitterDownloader_1.7_safe50_adfree.apk）
+最新版本：**v1.8**（TwitterDownloader_1.8_safe50_adfree.apk）
 
 任选以下一个入口下载（国内用户推荐 2、3）：
 
 | 入口 | 地址 |
 |------|------|
-| 1. GitHub 原链 | https://github.com/1055169799/twitter-downloader/releases/tag/v1.7 |
-| 2. GitHub 加速镜像（推荐） | https://gh-proxy.com/https://github.com/1055169799/twitter-downloader/releases/download/v1.7/TwitterDownloader_1.7_safe50_adfree.apk |
+| 1. GitHub 原链 | https://github.com/1055169799/twitter-downloader/releases/tag/v1.8 |
+| 2. GitHub 加速镜像（推荐） | https://gh-proxy.com/https://github.com/1055169799/twitter-downloader/releases/download/v1.8/TwitterDownloader_1.8_safe50_adfree.apk |
 | 3. Gitee 直链（国内最快） | https://gitee.com/jinxjay/twitter-downloader |
 
 > 若手机提示"未知来源"，请在系统设置中允许安装来自此来源的应用。
@@ -39,6 +39,7 @@
 | 项目 | 值 |
 |------|-----|
 | 包名 | com.x.twitterdownloader |
+| 版本 | 1.8（versionCode 5） |
 | minSdk | 21 |
 | targetSdk | 36 |
 | 签名 | v1 + v2 + v3 |
@@ -49,6 +50,9 @@
 **Q: 受保护/私密推文无法解析？**
 A: 受保护账号或仅粉丝可见的推文需要登录态，当前版本暂不支持，请先确认推文是公开可见的。
 
+**Q: 无法下载视频/图片？**
+A: 检查你的网络是否能连上X，如果能连上X，可能是下载用的服务器改动了，等待APP更新。
+
 **Q: 下载的文件在哪里？**
 A: 默认保存在系统下载目录的 TwitterDownloader 文件夹中。
 
@@ -57,6 +61,7 @@ A: 请使用上方入口 2（加速镜像）或入口 3（Gitee 直链）。
 
 ## 更新记录
 
+- **v1.8**：修复顶栏渐变起始位置（状态栏与顶栏无色差）、查看原文按钮加大
 - **v1.7**：修复状态栏沉浸式样式（状态栏与顶栏同色）
 - **v1.6**：图标安全区双版本测试（50% 方案确认）
 - **v1.5**：查看原文跳转修复、targetSdk 升级 36、图标不再裁剪
